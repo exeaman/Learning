@@ -22,3 +22,5 @@ four types of files
 git add <file> //adds new files and makes it staged
 git add . // stages all files altogather
 git commit -m "<comments>"
+
+git push // to push local files to remote storage

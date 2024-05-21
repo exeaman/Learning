@@ -1,0 +1,24 @@
+GIT
+
+version control system too to track changes in code 
+
+popular
+free & open source
+fast and scalable
+
+1. trach history
+2. collaborate
+
+
+adding a repo to vs code by using 
+git clone <The link to file (https/ssh)>
+
+four types of files
+1. untracked  // new files that git doesn't know about
+2. tracked  //files that git know
+3. staged   // file is ready to be commited
+4. unmodified  //no changes
+
+git add <file> //adds new files and makes it staged
+git add . // stages all files altogather
+git commit -m "<comments>"
